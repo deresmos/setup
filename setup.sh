@@ -1,7 +1,7 @@
 #! /bin/bash
 
 function curl_bash() {
-  curl https://github.com/deresmos/setup/raw/master/$1 | bash
+  curl -Ls https://github.com/deresmos/setup/raw/main/$1 | bash
 }
 
 # env
