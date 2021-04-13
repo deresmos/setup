@@ -18,7 +18,6 @@ firefox
 firefox-developer-edition
 handbrake-cli
 hdparm
-ifuse
 iperf
 libplist
 libreoffice-still
